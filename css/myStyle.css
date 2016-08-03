@@ -1,0 +1,133 @@
+
+
+  .span-1{
+    font-weight: 600;
+  }
+  .span-2{
+    
+  }
+  .item{
+    background-color: #f3f3f4;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .date h1{
+    float: right;
+  }
+  .date p{
+    float: right;
+  }
+  .item-bottom{
+    background-color: #e8e9eb;
+    padding-top: 15px;
+  }
+  .item-bottom a{
+    color: #6e7ebd;
+  }
+  .item-bottom i{
+    margin-left: 15px;
+  }
+  .green-status-item{
+    border-left: #71d206 solid 11px;
+    padding-top: 30px;
+  } 
+  .green-status-button{
+    background-color: #71d206;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  } 
+  .green-status-button a{
+    color: white;
+    font-weight: bold;
+
+  }
+  .yellow-status-item{
+    border-left: #dde933 solid 11px;
+    padding-top: 30px;
+  } 
+  .yellow-status-button{
+    background-color: white;
+    border: #dde933 solid 3px;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 13px;
+  } 
+  .yellow-status-button a{
+    color: black;
+    font-weight: bold;
+
+  }
+  .orange-status-item{
+    border-left: #e97f1b solid 11px;
+    padding-top: 30px;
+  } 
+  .orange-status-button{
+    background-color: white;
+    border: #e97f1b solid 3px;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 13px;
+  } 
+  .orange-status-button a{
+    color: black;
+    font-weight: bold;
+
+  }
+  .grey-status-item{
+    border-left: #bbbdc4 solid 11px;
+    padding-top: 30px;
+  } 
+  .grey-status-button{
+    background-color: white;
+    border: #6e7ebd solid 3px;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 13px;
+  } 
+  .grey-status-button a{
+    color: black;
+    font-weight: bold;
+
+  }
+  .icon{
+    color: #6e7ebd;
+    margin-left: 2px;
+    margin-right: 10px;
+  }
+  .icon-green{
+    color: #71d206;
+  }
+  .icon-orange{
+    color: #e97f1b;
+  }
+  .icon-grey{
+    color: #bbbdc4;
+  }
+  nav{
+    border-bottom: 5px solid #a3add5;
+  } 
+  nav h1{
+    color: #a3add5;
+    float: left;
+    margin-top: -3px;
+    margin-bottom: -3px;
+    margin-right: 15px;
+  } 
+  nav p{
+    color: #9e9faa;
+    padding-top: 18px;
+  }
+  .menu a{
+    color: #bbbdc4;
+  }
+  .active{
+    color: #6e7ebd;
+  }
+  .menu{
+    float: right;
+  }   
